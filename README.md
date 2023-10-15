@@ -2,6 +2,8 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=oMatheus-Farias&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMatheus-Farias)](https://github.com/oMatheus-Farias/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block"><br/>
